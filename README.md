@@ -19,7 +19,7 @@ Go to your cmd
 
 ```bash
   cd Avocadash
-  -r requirements.txt
+  pip install -r requirements.txt
   python Avocadash_App.py
 ```
     
