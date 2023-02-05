@@ -13,7 +13,7 @@ This dashboard is designed for an Avocado wholeseller. It will be used to analyz
 
 Download the sources in this repository.
 
-Change the "pd.read_csv(as your Avocado.csv path)" directory
+Change the directory in Avocadash_App.py file "pd.read_csv(as your Avocado.csv path)"
 
 Go to your cmd
 
