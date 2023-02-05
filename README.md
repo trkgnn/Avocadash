@@ -6,7 +6,7 @@ This dashboard is designed for an Avocado wholeseller. It will be used to analyz
 
 
 
-![image](https://daily.jstor.org/wp-content/uploads/2017/05/avocado_1050x700.jpg | width=100)
+![image](https://cdn.custom-cursor.com/packs/3671/minimal-avocado-pack.png)
 
 
 ## Start the dashboard in your local computer
